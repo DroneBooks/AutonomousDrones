@@ -1,0 +1,6 @@
+# Dependencias globales
+# ROS2 Humble se instala usando apt (no pip)
+# Para nodos Python adicionales:
+
+pymavlink==2.4.43
+numpy==1.24.3

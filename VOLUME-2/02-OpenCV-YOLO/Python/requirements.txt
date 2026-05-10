@@ -1,0 +1,8 @@
+# Dependencias para Vol 2 — Cap 2: OpenCV+YOLO
+# Instalar con: pip install -r requirements.txt
+
+opencv-python==4.8.1.78
+numpy==1.24.3
+ultralytics==8.0.208
+torch==2.1.0
+torchvision==0.16.0

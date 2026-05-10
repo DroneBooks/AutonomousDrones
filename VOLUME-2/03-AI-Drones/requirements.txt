@@ -1,0 +1,23 @@
+# Dependencias para Capítulo 3: IA en Drones
+# Instalación: pip install -r requirements.txt
+
+# YOLO v8 (detección de objetos)
+ultralytics==8.0.230
+
+# Visión por computadora
+opencv-python==4.8.0.76
+
+# Procesamiento numérico
+numpy==1.24.3
+
+# Gráficos (opcional pero recomendado)
+matplotlib==3.8.2
+
+# Para Jetson (si la instalación automática falla):
+# sudo pip install jetson-stats
+# Esto proporciona monitoreo de potencia, temperatura, etc.
+
+# Nota para usuarios de GPU:
+# - En Jetson: CUDA y cuDNN vienen con JetPack
+# - En sistemas con GPU NVIDIA: asegúrate de tener CUDA 11.8+
+#   Descarga desde: https://developer.nvidia.com/cuda-downloads

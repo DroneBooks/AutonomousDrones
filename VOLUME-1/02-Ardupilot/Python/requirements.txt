@@ -1,0 +1,6 @@
+# Dependencias para Vol 1 — Cap 2: Ardupilot
+# Instalar con: pip install -r requirements.txt
+
+pymavlink==2.4.43
+pexpect==4.9.1
+pyserial==3.5

@@ -1,0 +1,6 @@
+# Dependencias para Vol 1 — Cap 3: MAVLink
+# Instalar con: pip install -r requirements.txt
+
+pymavlink==2.4.43
+pyserial==3.5
+scapy==2.5.0

@@ -1,0 +1,6 @@
+# Dependencias para Vol 1 — Anexo A2: Python
+# Instalar con: pip install -r requirements.txt
+
+pymavlink==2.4.43
+opencv-python==4.8.1.78
+numpy==1.24.3
