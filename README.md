@@ -1,5 +1,6 @@
 > 🇪🇸 **Versión en español:** [DronesAutonomos](https://github.com/DroneBooks/DronesAutonomos) · 🌐 [dronebooks.eu](https://dronebooks.eu)
 
+
 # Autonomous Drones — Code Repository
 
 **Companion resources for the books Volume 1: 'Autonomous Drones I:
